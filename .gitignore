@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+*.joblib
+*.pkl
+*.zip
+*.xlsx
+*.csv
+*.parquet
+data/*
+!data/README.md
+outputs/*
+!outputs/.gitkeep
